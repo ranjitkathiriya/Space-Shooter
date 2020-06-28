@@ -3,7 +3,6 @@
 
 # Free Object
   * physics Moments
-  * Setting up camp fire
   * Arranging different objects
-  * Making House
+  * Object Blasting
   * Reward Mechanism
